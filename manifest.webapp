@@ -1,0 +1,11 @@
+{
+  "name": "LoopActivityTest",
+  "description": "Dummy test for loop-call activity test",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "default_locale": "en",
+  "orientation": "portrait"
+}
